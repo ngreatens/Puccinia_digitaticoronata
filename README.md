@@ -13,6 +13,8 @@ See original ggtree documentation for questions of usage, but I hope this code i
 
 For the published figure, trees were manually lined up in powerpoint and some the strip labels for the ITS tree were moved a little to the right using cropping tools for purely aesthetic reasons. Probably I could have figured out a way to do this in R without messsing up other formatting, but sometimes powerpoint does get the job done.
 
+For ease of access, nexus files with alignments are also provided here. They are prepared in Mesquite. Use Mesquite to view, or delete the Mesquite section of the nexus file to use with other software.
+
 MAKE SURE TO DOWNLOAD ALL FILES INTO A DIRECTORY AND SET YOUR WORKING DIRECTORY TO THE PROPER LOCATION. 
 Then everything should work (or at least it did as of Jan 15 2024).
 
