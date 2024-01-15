@@ -1,0 +1,467 @@
+#NEXUS
+[written Thu May 04 15:51:27 CDT 2023 by Mesquite  version 3.81 (build 955) at LAPTOP-G6V7I9KG/10.129.128.201]
+
+BEGIN TAXA;
+	TITLE Taxa;
+	DIMENSIONS NTAX=52;
+	TAXLABELS
+		Puccinia_ampliaticoronata_HMJAU_8736__ex._Melica_grandiflora Puccinia_coronata_s._l._var._himalensis_PUR_F15640__ex._Calamagrostis_canadensis 'Puccinia coronati-longispora PRC 196  ex. Bromus erectus' Puccinia_pseudomesneriana_BPI_085621__ex._Rhamnus_saxatilis_ssp._prunifolia Puccinia_mesneriana_BPI_085567__ex._Rhamnus_alaternus Puccinia_digitata_BPI_085602__ex._Endotropis_crocea_ssp._ilicifolia Puccinia_pseudodigitata_BPI_085605__ex._Endotropis_crocea_ssp._ilicifolia 'Puccinia coronati-hordei PUR 89857  ex. Hordeum vulgare' 'Puccinia coronati-brevispora PUR N652  ex. Bromus inermis' Puccinia_coronata_s._l._var._himalensis_PUR_F15640_ex._Calamagrostis_canadensis 'Puccinia digitaticoronata Karakkat et al. Pc-KB-2013-SF-WI-1  ex. Poa pratensis' 'Puccinia digitaticoronata Karakkat et al. Pc-KB-2014-SF-WI-14  ex. Poa pratensis' Puccinia_digitaticoronata_HMJAU_8781__ex._Rhamnus_davurica Puccinia_digitaticoronata_HMJAU_8782__ex._Poa_sp. Puccinia_digitaticoronata_PUR_N24045__ex._Poa_pratensis Puccinia_digitaticoronata_PUR_N24047__ex._Poa_glauca Puccinia_digitaticoronata_PUR_N24049__ex._Poa_palustris Puccinia_digitaticoronata_PUR_N24050__ex._Poa_pratensis Puccinia_digitaticoronata_PUR_N24046__ex._Poa_palustris Puccinia_digitaticoronata_PUR_N24048__ex._Poa_pratensis Puccinia_digitaticoronata_PUR_N24042__ex._Rhamnus_japonica Puccinia_digitaticoronata_PUR_N24043__ex._Rhamnus_davurica Puccinia_digitaticoronata_PUR_N24044__ex._Rhamnus_crenata Puccinia_eleganticoronata_HMJAU_8792__ex._Poa_sphondylodes 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. MA-4  ex. Poa pratensis' Puccinia_coronata_var._avenae_f._sp._avenae_BPI_881581__ex._Poa_pratensis 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NC-2  ex. Poa pratensis' 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. OH-5  ex. Poa pratensis' 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. WY-1  ex. Poa pratensis' 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NJNB-37  ex. Poa pratensis' Puccinia_coronata_var._avenae_f._sp._avenae_PUR_22125__ex._Avena_sativa Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N1982__ex._Poa_sp. Puccinia_coronata_var._avenae_f._sp._avenae_BPI_60333_ex._Lolium_perenne Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N1389__ex._Rhamnus_cathartica Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N436__ex._Poa_pratensis 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NJT-4  ex. Poa pratensis' Puccinia_coronata_var._coronata_PRM_155608__ex._Calamagrostis_arundinacea 'Puccinia coronata var. coronata (S)reg.nr. F46266  ex. Frangula alnus' Puccinia_coronata_var._avenae_f._sp._graminicola_BPI_58842__ex._Rhamnus_cathartica Puccinia_coronata_var._avenae_f._sp._graminicola_PUR_N1251__ex._Holcus_lanatus 'Puccinia coronata var. avenae f. sp. avenae Karakkat et al. Pc-KB-2015-WI-70  ex. Poa pratensis' 'Puccinia coronata var. avenae f. sp. avenae Karakkat et al. Pc-KB-2015-WI-76  ex. Poa pratensis' Puccinia_rangiferina_HMJAU_8749__ex._Calamagrostis_arundinacea 'Puccinia coronati-agrostidis PUR N114  ex. Agrostis stolonifera' 'Puccinia coronati-japonica PUR F16131  ex. Calamagrostis arundinacea' Puccinia_ramificaticoronata_HMJAU_8753__ex._Poaceae_sp. Puccinia_protuberanticoronata_HMJAU_8716__ex._Calamagrostis_epigejos Puccinia_epigejos_HMJAU_8739__ex._Calamagrostis_epigejos 'Puccinia coronati-calamagrostidis PUR 22155  ex. Calamagrostis canadensis' Puccinia_graminis_PUR_N1189__ex._Poa_pratensis Puccinia_poarum_DAOM_193284__ex._Poa_pratensis Puccinia_pseudostriiformis_DAOM_220657__ex._Poa_pratensis 
+	;
+
+END;
+
+
+BEGIN CHARACTERS;
+	TITLE  Character_Matrix;
+	DIMENSIONS  NCHAR=271;
+	FORMAT DATATYPE = DNA GAP = - MISSING = ?;
+	MATRIX
+	Puccinia_ampliaticoronata_HMJAU_8736__ex._Melica_grandiflora                                     GAAA--CCCTCTCAC-AAAACAACTTTATTGT------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA------TGTTATAGCTCACTTTAAATATATAAGT--CACAC-------TCTTCAAAT--AAGTTGGATTGACTTGGTGTAATAA--TTTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATCTA-TATTGAAGGGA--------GAGACTCCTAAAAAACACACCCCCTTAA---TTTAATT-
+	Puccinia_coronata_s._l._var._himalensis_PUR_F15640__ex._Calamagrostis_canadensis                 GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTA-----C----TTTG---TGGATGTTGAGTG-TTGCTGTG----TGTATCACAGCTCACTTTAAATATATAAGT--CACAC-------TCTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTTAAATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAGGGA---------AAACTTCTAAAC------------ATG---AATTCTT-
+	'Puccinia coronati-longispora PRC 196  ex. Bromus erectus'                                       GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA---TAAAATTATAGCTCACTTTAAATATATAAGTCACACAC-------TCTTCAAGT--AAGTTGGATTGACTTGGTGTAATAATATTTT-AATCATCACATCAAGGAAAGTAGTCAAATACTTGCCATC---TTTTGAAAGGG--GAGAGAGGGACTTCTAAAA-------CCCCATTT---TAAATAT-
+	Puccinia_pseudomesneriana_BPI_085621__ex._Rhamnus_saxatilis_ssp._prunifolia                      GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA---TAATATTATAGCTCACTTTAAATATATAAGTCACACAC-------TCTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGTCAAATACTTGCCATC---TTTTGAAAGGGGAGAGAGAGGGACTTCTAAAA---------CCCCAT---TAAATAT-
+	Puccinia_mesneriana_BPI_085567__ex._Rhamnus_alaternus                                            GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTGG-----TTTTTTTG---TGGATGTTGAGTG-TTGCTATATATAGTATATAGAGCTCACTTTAAATAACAAAGTCACACACACACACTCTTTCAAGG--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATGCTTGCCATC---TTTTGGAAGGGG-AGAGAGGAGACTTCTAAAA-----ACCCCCCCAC---ACAATTC-
+	Puccinia_digitata_BPI_085602__ex._Endotropis_crocea_ssp._ilicifolia                              GAAAAACCCTCTCACAAAAATAACTTTATTG-------TTG-----C----TTTGTGTTGGATGTTGAGTG-TTGCTATAGT-TTATATTATAGCTCACTTTAAATATATAAGTCACACAC-------GCTTCAAGT--AAGATGGATTGACTTGGTGTAATAA---TCT-AATCATCACATCAAGGAAAGTAGTCAAATACTTGCCATC---TTTTTTGAAGG--GGAAAAGGGACTTCTAAAC------CCCACACAT---ATACATA-
+	Puccinia_pseudodigitata_BPI_085605__ex._Endotropis_crocea_ssp._ilicifolia                        GAAA--CCCTCTCAC-AAAATAACTTGATTG-------TTG-----C----TTTG--TTGGATGTTGAGTG-TTGCTATAG--TTATATTATAGCTCACTTTAAATATATAAGTCACACAC-------TCTTCAAGTAAAAGTTGGATTGACTTGGTGTAATAA---TTT-AATCGTCACATCAAGGAAAGTAGTCAAATACTTGCCATC---TTTTGAAGGGG--GGAGGAGGGACTTCTAAACCCCACACACATATAT---AATAATA-
+	'Puccinia coronati-hordei PUR 89857  ex. Hordeum vulgare'                                        GAAA--CCCCCTCAC-AAAACAACTTTATTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA---TAATATTATAGCTCACTTTAAATATATAAGTCACACACA-----CTCTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGTCAAATACTTGCCATC---TTTTGAAAGGG--GAGAGAGGGACTTCTAAAA--AAAACCCCATACA---TACAATA-
+	'Puccinia coronati-brevispora PUR N652  ex. Bromus inermis'                                      GAAA--CCCTCTCAC-AAAATAACTTTATTGT------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----ATATTATAGCTCACTTTAAATATATAAGTCACACAC-------TCTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGTTAAATACTTGCCATC---TTTTGAAAGGG----GAGAGGGACTTCTAAAA-----AACCCCATTA---AATATTT-
+	Puccinia_coronata_s._l._var._himalensis_PUR_F15640_ex._Calamagrostis_canadensis                  GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----C----TCTG---TGGATGTTGAGTG-TTGCTATA-----TTTGTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA-----AACCCCCTTC---ATAACCT-
+	'Puccinia digitaticoronata Karakkat et al. Pc-KB-2013-SF-WI-1  ex. Poa pratensis'                GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	'Puccinia digitaticoronata Karakkat et al. Pc-KB-2014-SF-WI-14  ex. Poa pratensis'               GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_HMJAU_8781__ex._Rhamnus_davurica                                       GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---KGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCTCATG---ATTACCT-
+	Puccinia_digitaticoronata_HMJAU_8782__ex._Poa_sp.                                                GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24045__ex._Poa_pratensis                                          GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24047__ex._Poa_glauca                                             GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24049__ex._Poa_palustris                                          GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24050__ex._Poa_pratensis                                          GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24046__ex._Poa_palustris                                          GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24048__ex._Poa_pratensis                                          GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24042__ex._Rhamnus_japonica                                       GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24043__ex._Rhamnus_davurica                                       GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_digitaticoronata_PUR_N24044__ex._Rhamnus_crenata                                        GAAA--CCCTCTCAC-AAAATAACTTTTTTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCCAAAG--AGAAAACCCCATG---ATTACCT-
+	Puccinia_eleganticoronata_HMJAU_8792__ex._Poa_sphondylodes                                       GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATA-----TACTTGTAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAA-----------CCCATGATTATTACCT-
+	'Puccinia coronata var. avenae f. sp. avenae Beirn et al. MA-4  ex. Poa pratensis'               GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATGAGT--CACAC-------TATTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	Puccinia_coronata_var._avenae_f._sp._avenae_BPI_881581__ex._Poa_pratensis                        GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATGAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NC-2  ex. Poa pratensis'               GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATGAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	'Puccinia coronata var. avenae f. sp. avenae Beirn et al. OH-5  ex. Poa pratensis'               GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATGAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	'Puccinia coronata var. avenae f. sp. avenae Beirn et al. WY-1  ex. Poa pratensis'               GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATGAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NJNB-37  ex. Poa pratensis'            GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	Puccinia_coronata_var._avenae_f._sp._avenae_PUR_22125__ex._Avena_sativa                          GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N1982__ex._Poa_sp.                               GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	Puccinia_coronata_var._avenae_f._sp._avenae_BPI_60333_ex._Lolium_perenne                         GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N1389__ex._Rhamnus_cathartica                    GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N436__ex._Poa_pratensis                          GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NJT-4  ex. Poa pratensis'              GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTCTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATGAGT--CACAC-------TTTTCAAGT--AAGTCGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTT-
+	Puccinia_coronata_var._coronata_PRM_155608__ex._Calamagrostis_arundinacea                        GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----C-TTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TTGTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAAT-TTTT-CATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACAATTT-
+	'Puccinia coronata var. coronata (S)reg.nr. F46266  ex. Frangula alnus'                          GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----C-TTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TTGTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAAT-TTTT-CATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACAATTT-
+	Puccinia_coronata_var._avenae_f._sp._graminicola_BPI_58842__ex._Rhamnus_cathartica               GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----C-TCTTTTG---TGGATGTTGAGTG-TTGCTATA----TTTTTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-CATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA---AAACCCCTCATA---ACACTTT-
+	Puccinia_coronata_var._avenae_f._sp._graminicola_PUR_N1251__ex._Holcus_lanatus                   GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----C-TCTTTTG---TGGATGTTGAGTG-TTGCTATA----TTTTTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-CATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA---AAACCCCTCATA---ACACTTT-
+	'Puccinia coronata var. avenae f. sp. avenae Karakkat et al. Pc-KB-2015-WI-70  ex. Poa pratensis' GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----CATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC----TTTGAAAGGA--------GGGACTCCTAAAA----AACCCCTCATA---ACCTTTA-
+	'Puccinia coronata var. avenae f. sp. avenae Karakkat et al. Pc-KB-2015-WI-76  ex. Poa pratensis' GAAA--CCCTCTCAC-AAAACAACTTTATTG-------TTG-----CTTTTTTTG---TGGATGTTGAGTG-TTGCTATA-----TATTTATAGCTCACTTTAAATATATAAGT--CACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC----TTTGAAAGGA--------GGGACTCCAAAAA-----ACCCCTCATA---ACCTTTA-
+	Puccinia_rangiferina_HMJAU_8749__ex._Calamagrostis_arundinacea                                   GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTATG------TCATATAGCTCACTTTAAATATATAAGT--CACAC------TTTTTCA-----AAGTTGGATTGACTTGGTGTAATAA---TTT-CATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGA--------GGGACTCCTAAAA-----ACCCCTACCT---ATCTTTT-
+	'Puccinia coronati-agrostidis PUR N114  ex. Agrostis stolonifera'                                GAAA--CCCTCTCAT-AAAACAACTTGATTG-------TTG-----C----TTTG---TGGATGTTGAGTGTTTGCTATC-----TTTGTATAGCTCACTTTAAATATATCAGT--CACAC-------TTTTCATGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAGGGA--------GAGACTCCTAAAA----ACACATAATTT---TTTTTTA-
+	'Puccinia coronati-japonica PUR F16131  ex. Calamagrostis arundinacea'                           GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTG-----C----TTTG---TGGATGTTGAGTG-TTGCTAT--------CATATAGCTCACTTTAAATATATAAGT--CACAC------TTTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAGAGG--------GAGACTCCTAAAA---AAACCATCTTTT---TTTAAAA-
+	Puccinia_ramificaticoronata_HMJAU_8753__ex._Poaceae_sp.                                          GAAA--CCCTCTCAC-AAAACAACTTTTTAT-------TTGTTGCTT----TTTG---TGGATGTTGAGTG-TTGCTATA-----AATTTATAGCTCACTTTAAATATATAAGTCACACAC-------TTTTCAAGT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAAGGG--------GGGACTCCTAAAA--------AACCACA---TACAAAA-
+	Puccinia_protuberanticoronata_HMJAU_8716__ex._Calamagrostis_epigejos                             GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTT-----C----TTTG---TGGATGTTGAGTG-TTGCTATT-----GTTATATGGCTCACTTTAAATATATAAGT--CACAC-----TTTTTTCAAGC--AAGTTGGATTGACTTGGTGTAATAA---TTT-CATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAGGGA--------GAGACTCCTAAAC------ACCCATATA---TATAAAA-
+	Puccinia_epigejos_HMJAU_8739__ex._Calamagrostis_epigejos                                         GAAA--CCCTCTCAC-AAAATAACTTTATTG-------TTA----------TATG---TGGATGTTGAGTG-TTGCTATT-------TATTTAGCTCACTTTAAATACATAAGT--CACAC------TTTTTCAAAT--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTGAAGGGG-------AGAGACTCCTAAAA----ACCCACACACA---TCTTTCT-
+	'Puccinia coronati-calamagrostidis PUR 22155  ex. Calamagrostis canadensis'                      GAAA--CCCCCTCAC-AAAATAACTTTATTG-------TTA---TAC----TTTG---TGGATGTTGAGTG-TTGCTATA----ATATATATAGCTCACTTTAAATTCATAAGT--CACAC------TCTTTAAGTA--AAGTTGGATTGACTTGGTGTAATAA---TTT-AATCATCACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTTACACAG----AAGAGAGACTTCTAMAC---------ACCCAT---ATTATTT-
+	Puccinia_graminis_PUR_N1189__ex._Poa_pratensis                                                   GAAA--CCCTCTCAT-TAAACATTTTATTTTTGA---TTTG-----T----TTAG---TGGATGTTGAGTG-TTGCTGTA-------CCTATAGCTCACTTTAAATATATAAGT----CAC-------TTTTCAAAT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGAAAGTAGTAAAACACTTGCCATCTTGTTTGTTAATAA--------GAGACTCCTAAAA--------CCCAATA---TCTTATT-
+	Puccinia_poarum_DAOM_193284__ex._Poa_pratensis                                                   GAAA--CCCTCTCAT-TAAACCTTTTTTTCTAAAAAGAAAG-----T----TTAG---TGGATGTTGAGTG-TTGCTGTA---------ACTAGCTCACTTTAAATATATAAGT--CA----------CTTTTTGAA--TAGTTGGATTGACTTGGTGTAATAA---TTT-----TTGACATCAAGGAAAGTAGC--AATACTTGCCATC---TTTTTGGAAG---------GRGACTCCTAAAA-----------CCCA---ATTTAAC-
+	Puccinia_pseudostriiformis_DAOM_220657__ex._Poa_pratensis                                        GAAA--CCCTCTCAT-TAAATAATTTTGATTAA-----TTA---TTT----TCAA---TGGATGTTGAGTG-CTGCTGTT---------ATTAGCTCACTTTAAATATATAAGT----CAC-------TTTTCAAAT--AAGTTGGATTGACTTGGTGTAATAA---TTT-TATCATCACATCAAGGATTGTAGC--AATAC-TGCCATC---TTATTGAAGG---------GAGACTCCTAAAA----AACCCCCTTTT---TTTTT---
+
+;
+
+
+
+END;
+
+BEGIN ASSUMPTIONS;
+	TYPESET * UNTITLED   =  unord:  1- 271;
+
+END;
+
+BEGIN NOTES;
+
+	TAXABITS   NAME = newlyAddedTaxon on =  1 -  52;
+
+END;
+
+BEGIN CODONS;
+	CODESET * UNTITLED   =  universal:  1- 271;
+
+
+END;
+
+BEGIN MESQUITECHARMODELS;
+	ProbModelSet * UNTITLED   =  'Jukes-Cantor':  1- 271;
+END;
+
+BEGIN TREES;
+	Title 'Trees from "ITS.tre"';
+	ID 0187e86d09965;
+	LINK Taxa = Taxa;
+	TRANSLATE
+[0] 		1 Puccinia_ampliaticoronata_HMJAU_8736__ex._Melica_grandiflora,
+[1] 		2 Puccinia_coronata_s._l._var._himalensis_PUR_F15640__ex._Calamagrostis_canadensis,
+[2] 		3 'Puccinia coronati-longispora PRC 196  ex. Bromus erectus',
+[3] 		4 Puccinia_pseudomesneriana_BPI_085621__ex._Rhamnus_saxatilis_ssp._prunifolia,
+[4] 		5 Puccinia_mesneriana_BPI_085567__ex._Rhamnus_alaternus,
+[5] 		6 Puccinia_digitata_BPI_085602__ex._Endotropis_crocea_ssp._ilicifolia,
+[6] 		7 Puccinia_pseudodigitata_BPI_085605__ex._Endotropis_crocea_ssp._ilicifolia,
+[7] 		8 'Puccinia coronati-hordei PUR 89857  ex. Hordeum vulgare',
+[8] 		9 'Puccinia coronati-brevispora PUR N652  ex. Bromus inermis',
+[9] 		10 Puccinia_coronata_s._l._var._himalensis_PUR_F15640_ex._Calamagrostis_canadensis,
+[10] 		11 'Puccinia digitaticoronata Karakkat et al. Pc-KB-2013-SF-WI-1  ex. Poa pratensis',
+[11] 		12 'Puccinia digitaticoronata Karakkat et al. Pc-KB-2014-SF-WI-14  ex. Poa pratensis',
+[12] 		13 Puccinia_digitaticoronata_HMJAU_8781__ex._Rhamnus_davurica,
+[13] 		14 Puccinia_digitaticoronata_HMJAU_8782__ex._Poa_sp.,
+[14] 		15 Puccinia_digitaticoronata_PUR_N24045__ex._Poa_pratensis,
+[15] 		16 Puccinia_digitaticoronata_PUR_N24047__ex._Poa_glauca,
+[16] 		17 Puccinia_digitaticoronata_PUR_N24049__ex._Poa_palustris,
+[17] 		18 Puccinia_digitaticoronata_PUR_N24050__ex._Poa_pratensis,
+[18] 		19 Puccinia_digitaticoronata_PUR_N24046__ex._Poa_palustris,
+[19] 		20 Puccinia_digitaticoronata_PUR_N24048__ex._Poa_pratensis,
+[20] 		21 Puccinia_digitaticoronata_PUR_N24042__ex._Rhamnus_japonica,
+[21] 		22 Puccinia_digitaticoronata_PUR_N24043__ex._Rhamnus_davurica,
+[22] 		23 Puccinia_digitaticoronata_PUR_N24044__ex._Rhamnus_crenata,
+[23] 		24 Puccinia_eleganticoronata_HMJAU_8792__ex._Poa_sphondylodes,
+[24] 		25 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. MA-4  ex. Poa pratensis',
+[25] 		26 Puccinia_coronata_var._avenae_f._sp._avenae_BPI_881581__ex._Poa_pratensis,
+[26] 		27 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NC-2  ex. Poa pratensis',
+[27] 		28 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. OH-5  ex. Poa pratensis',
+[28] 		29 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. WY-1  ex. Poa pratensis',
+[29] 		30 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NJNB-37  ex. Poa pratensis',
+[30] 		31 Puccinia_coronata_var._avenae_f._sp._avenae_PUR_22125__ex._Avena_sativa,
+[31] 		32 Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N1982__ex._Poa_sp.,
+[32] 		33 Puccinia_coronata_var._avenae_f._sp._avenae_BPI_60333_ex._Lolium_perenne,
+[33] 		34 Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N1389__ex._Rhamnus_cathartica,
+[34] 		35 Puccinia_coronata_var._avenae_f._sp._avenae_PUR_N436__ex._Poa_pratensis,
+[35] 		36 'Puccinia coronata var. avenae f. sp. avenae Beirn et al. NJT-4  ex. Poa pratensis',
+[36] 		37 Puccinia_coronata_var._coronata_PRM_155608__ex._Calamagrostis_arundinacea,
+[37] 		38 'Puccinia coronata var. coronata (S)reg.nr. F46266  ex. Frangula alnus',
+[38] 		39 Puccinia_coronata_var._avenae_f._sp._graminicola_BPI_58842__ex._Rhamnus_cathartica,
+[39] 		40 Puccinia_coronata_var._avenae_f._sp._graminicola_PUR_N1251__ex._Holcus_lanatus,
+[40] 		41 'Puccinia coronata var. avenae f. sp. avenae Karakkat et al. Pc-KB-2015-WI-70  ex. Poa pratensis',
+[41] 		42 'Puccinia coronata var. avenae f. sp. avenae Karakkat et al. Pc-KB-2015-WI-76  ex. Poa pratensis',
+[42] 		43 Puccinia_rangiferina_HMJAU_8749__ex._Calamagrostis_arundinacea,
+[43] 		44 'Puccinia coronati-agrostidis PUR N114  ex. Agrostis stolonifera',
+[44] 		45 'Puccinia coronati-japonica PUR F16131  ex. Calamagrostis arundinacea',
+[45] 		46 Puccinia_ramificaticoronata_HMJAU_8753__ex._Poaceae_sp.,
+[46] 		47 Puccinia_protuberanticoronata_HMJAU_8716__ex._Calamagrostis_epigejos,
+[47] 		48 Puccinia_epigejos_HMJAU_8739__ex._Calamagrostis_epigejos,
+[48] 		49 'Puccinia coronati-calamagrostidis PUR 22155  ex. Calamagrostis canadensis',
+[49] 		50 Puccinia_graminis_PUR_N1189__ex._Poa_pratensis,
+[50] 		51 Puccinia_poarum_DAOM_193284__ex._Poa_pratensis,
+[51] 		52 Puccinia_pseudostriiformis_DAOM_220657__ex._Poa_pratensis;
+	TREE tree_1 = (((((((((((((27:0.0,28:0.0):0.0,26:0.0):0.0,25:0.007418):0.0,36:0.014943):0.0,29:0.0):0.007412,(35:0.0,(30:0.0,(31:0.0,(32:0.0,34:0.0):0.0):0.0):0.0):0.0):0.0,(33:0.0,(41:0.007317,42:0.007675):0.007611):0.0):0.016444,43:0.111326):0.01179,((39:0.0,40:0.0):0.015297,(37:0.0,38:0.0):0.008742):0.004634):0.028659,(10:0.052295,(24:0.004863,((((11:0.0,12:0.0):0.0,14:0.0):0.0,15:0.0):0.0,(16:0.0,(17:0.0,(18:0.0,(19:0.0,(20:0.0,(21:0.0,(13:0.007483,(22:0.0,23:0.0):0.0):0.0):0.0):0.0):0.0):0.0):0.0):0.0):0.037452):0.056329):0.025787):0.0,(5:0.302762,((2:0.227405,49:0.193571):0.054056,(9:0.0,(8:0.063192,((3:0.008252,4:0.0):0.037108,(6:0.090208,7:0.059901):0.067855):0.026432):0.021227):0.039753):0.036198):0.023314):0.024036,(1:0.082863,(45:0.093117,(47:0.110509,(44:0.141969,48:0.119722):0.0):0.049897):0.019877):0.03148):0.089609,46:0.054384,(52:0.37697,(50:0.190497,51:0.490745):0.065855):0.251987);
+
+END;
+
+
+
+Begin MESQUITE;
+		MESQUITESCRIPTVERSION 2;
+		TITLE AUTO;
+		tell ProjectCoordinator;
+		timeSaved 1683233487716;
+		getEmployee #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			setID 0 2517291308411874966;
+		endTell;
+		getEmployee #mesquite.charMatrices.ManageCharacters.ManageCharacters;
+		tell It;
+			setID 0 5710853012964075222;
+			mqVersion 381;
+			checksumv 0 3 1821229690 null  getNumChars 271 numChars 271 getNumTaxa 52 numTaxa 52   short true   bits 2305843009213693967   states 15   sumSquaresStatesOnly 280485.0 sumSquares 272199.0 longCompressibleToShort false usingShortMatrix true   NumFiles 1 NumMatrices 1;
+			mqVersion;
+		endTell;
+		getWindow;
+		tell It;
+			suppress;
+			setResourcesState false false 100;
+			setPopoutState 300;
+			setExplanationSize 0;
+			setAnnotationSize 0;
+			setFontIncAnnot 0;
+			setFontIncExp 0;
+			setSize 1280 641;
+			setLocation -8 -8;
+			setFont SanSerif;
+			setFontSize 10;
+			getToolPalette;
+			tell It;
+			endTell;
+			desuppress;
+		endTell;
+		getEmployee  #mesquite.minimal.ManageTaxa.ManageTaxa;
+		tell It;
+			showTaxa #2517291308411874966 #mesquite.lists.TaxonList.TaxonList;
+			tell It;
+				setTaxa #2517291308411874966;
+				getWindow;
+				tell It;
+					useTargetValue off;
+					setTargetValue ;
+					newAssistant  #mesquite.lists.TaxonListCurrPartition.TaxonListCurrPartition;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1180 569;
+					setLocation -8 -8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+						setTool mesquite.lists.TaxonList.TaxonListWindow.ibeam;
+					endTell;
+				endTell;
+				showWindow;
+				getEmployee #mesquite.lists.ColorTaxon.ColorTaxon;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.lists.TaxonListAnnotPanel.TaxonListAnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.trees.BasicTreeWindowCoord.BasicTreeWindowCoord;
+		tell It;
+			makeTreeWindow #2517291308411874966  #mesquite.trees.BasicTreeWindowMaker.BasicTreeWindowMaker;
+			tell It;
+				suppressEPCResponse;
+				setTreeSource  #mesquite.trees.StoredTrees.StoredTrees;
+				tell It;
+					setTreeBlock 1;
+					setTreeBlockID 0187e86d09965;
+					toggleUseWeights off;
+				endTell;
+				setAssignedID 1696.1683231683064.5236150453843827226;
+				getTreeWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1180 569;
+					setLocation -8 -8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setActive;
+					getTreeDrawCoordinator #mesquite.trees.BasicTreeDrawCoordinator.BasicTreeDrawCoordinator;
+				tell It;
+					suppress;
+					setTreeDrawer  #mesquite.trees.SquareLineTree.SquareLineTree;
+					tell It;
+						setNodeLocs #mesquite.trees.NodeLocsStandard.NodeLocsStandard;
+						tell It;
+							branchLengthsToggle on;
+							toggleScale on;
+							toggleBroadScale off;
+							toggleCenter on;
+							toggleEven on;
+							setFixedTaxonDistance 0;
+						endTell;
+						setEdgeWidth 4;
+						showEdgeLines on;
+						orientRight;
+					endTell;
+					setBackground White;
+					setBranchColor Black;
+					showNodeNumbers off;
+					showBranchColors on;
+					labelBranchLengths off;
+					centerBrLenLabels on;
+					showBrLensUnspecified on;
+					showBrLenLabelsOnTerminals on;
+					setBrLenLabelColor 0 0 255;
+					setNumBrLenDecimals 6;
+					setSelectedTaxonHighlightMode 1;
+					desuppress;
+					getEmployee #mesquite.trees.BasicDrawTaxonNames.BasicDrawTaxonNames;
+					tell It;
+						setColor Black;
+						setTaxonNameStyler  #mesquite.trees.NoColorForTaxon.NoColorForTaxon;
+						toggleShadePartition off;
+						toggleShowFootnotes on;
+						toggleNodeLabels on;
+						toggleCenterNodeNames off;
+						toggleShowNames on;
+						namesAngle ?;
+					endTell;
+				endTell;
+					setTreeNumber 1;
+					setDrawingSizeMode 0;
+					toggleLegendFloat on;
+					scale 0;
+					toggleTextOnTree off;
+					togglePrintName off;
+					showWindow;
+				endTell;
+				desuppressEPCResponse;
+				getEmployee #mesquite.trees.ColorBranches.ColorBranches;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.ornamental.BranchNotes.BranchNotes;
+				tell It;
+					setAlwaysOn off;
+				endTell;
+				getEmployee #mesquite.ornamental.ColorTreeByPartition.ColorTreeByPartition;
+				tell It;
+					colorByPartition off;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocDoubles.DrawTreeAssocDoubles;
+				tell It;
+					setOn on;
+					toggleShow consensusFrequency;
+					toggleShow bootstrapFrequency;
+					toggleShow posteriorProbability;
+					toggleShow consensusFrequency;
+					toggleShow posteriorProbability;
+					toggleShow bootstrapFrequency;
+					setDigits 4;
+					setThreshold ?;
+					writeAsPercentage off;
+					toggleCentred off;
+					toggleHorizontal on;
+					toggleWhiteEdges on;
+					toggleShowOnTerminals on;
+					setFontSize 10;
+					setOffset 0  0;
+				endTell;
+				getEmployee #mesquite.ornamental.DrawTreeAssocStrings.DrawTreeAssocStrings;
+				tell It;
+					setOn on;
+					toggleCentred on;
+					toggleHorizontal on;
+					setFontSize 10;
+					setOffset 0  0;
+					toggleShowOnTerminals on;
+				endTell;
+				getEmployee #mesquite.trees.TreeInfoValues.TreeInfoValues;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		getEmployee  #mesquite.charMatrices.BasicDataWindowCoord.BasicDataWindowCoord;
+		tell It;
+			showDataWindow #5710853012964075222 #mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindowMaker;
+			tell It;
+				getWindow;
+				tell It;
+					setExplanationSize 30;
+					setAnnotationSize 20;
+					setFontIncAnnot 0;
+					setFontIncExp 0;
+					setSize 1180 569;
+					setLocation -8 -8;
+					setFont SanSerif;
+					setFontSize 10;
+					getToolPalette;
+					tell It;
+					endTell;
+					setTool mesquite.charMatrices.BasicDataWindowMaker.BasicDataWindow.arrow;
+					colorCells  #mesquite.charMatrices.ColorByState.ColorByState;
+				tell It;
+					setStateLimit 9;
+					toggleUniformMaximum on;
+				endTell;
+					colorRowNames  #mesquite.charMatrices.TaxonGroupColor.TaxonGroupColor;
+					colorColumnNames  #mesquite.charMatrices.CharGroupColor.CharGroupColor;
+					colorText  #mesquite.charMatrices.NoColor.NoColor;
+					setBackground White;
+					toggleShowNames on;
+					toggleShowTaxonNames on;
+					toggleTight off;
+					toggleThinRows off;
+					toggleShowChanges off;
+					toggleSeparateLines off;
+					toggleShowStates on;
+					toggleReduceCellBorders off;
+					toggleAutoWCharNames off;
+					toggleAutoTaxonNames off;
+					toggleShowDefaultCharNames off;
+					toggleConstrainCW on;
+					toggleBirdsEye off;
+					toggleColorOnlyTaxonNames off;
+					toggleShowPaleGrid off;
+					toggleShowPaleCellColors off;
+					toggleShowPaleExcluded off;
+					togglePaleInapplicable on;
+					togglePaleMissing off;
+					toggleShowBoldCellText off;
+					toggleAllowAutosize off;
+					toggleColorsPanel off;
+					toggleLinkedScrolling on;
+					toggleScrollLinkedTables off;
+				endTell;
+				showWindow;
+				getWindow;
+				tell It;
+					forceAutosize;
+				endTell;
+				getEmployee #mesquite.charMatrices.AlterData.AlterData;
+				tell It;
+					toggleBySubmenus off;
+				endTell;
+				getEmployee #mesquite.charMatrices.ColorCells.ColorCells;
+				tell It;
+					setColor Red;
+					removeColor off;
+				endTell;
+				getEmployee #mesquite.categ.StateNamesStrip.StateNamesStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.AnnotPanel.AnnotPanel;
+				tell It;
+					togglePanel off;
+				endTell;
+				getEmployee #mesquite.charMatrices.CharReferenceStrip.CharReferenceStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.charMatrices.QuickKeySelector.QuickKeySelector;
+				tell It;
+					autotabOff;
+				endTell;
+				getEmployee #mesquite.charMatrices.SelSummaryStrip.SelSummaryStrip;
+				tell It;
+					showStrip off;
+				endTell;
+				getEmployee #mesquite.align.AlignToDropped.AlignToDropped;
+				tell It;
+					gapCosts 16 6 1 1;
+					subCosts  10 5 10 10 10 5 5 10 10 10 5 10;
+				endTell;
+				getEmployee #mesquite.molec.ColorByAA.ColorByAA;
+				tell It;
+					emphasizeDegeneracy off;
+				endTell;
+				getEmployee #mesquite.chromaseq.ColorQuality.ColorQuality;
+				tell It;
+					toggleAmbiguities on;
+					toggleMarks on;
+				endTell;
+				getEmployee #mesquite.molec.SequenceInfoEditor.SequenceInfoEditor;
+				tell It;
+					panelOpen false;
+				endTell;
+				getEmployee #mesquite.chromaseq.SourceFileInfoEditor.SourceFileInfoEditor;
+				tell It;
+					panelOpen false;
+				endTell;
+			endTell;
+		endTell;
+		endTell;
+end;
+
